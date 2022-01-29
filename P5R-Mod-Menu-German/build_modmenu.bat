@@ -32,4 +32,4 @@ del "%OUTPUT_PATH%\field\field.bf"
 del "%OUTPUT_PATH%\field\dungeon.bf"
 del "%OUTPUT_PATH%\field\at_dng.bf"
 
-help
+pause
