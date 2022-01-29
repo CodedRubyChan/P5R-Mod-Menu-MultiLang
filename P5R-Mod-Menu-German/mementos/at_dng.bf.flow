@@ -1,0 +1,21 @@
+import( "../build/input/extracted/etc/at_dng.bf" );
+import( "../ModMenu.flow" );
+
+void CallOriginalSquareMenu()
+{
+    auto_recover();
+}
+
+void at_dng_square_menu_hook()
+{
+    ModMenuDisplay();
+}
+
+void at_dng_start_menu_hook()
+{
+	FLD_PANEL_DISP( 0 );
+	SAVE();
+	SAVE_UI_SYNC();
+	SAVE_SYNC();
+	FLD_PANEL_DISP( 1 );
+}
