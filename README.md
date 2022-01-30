@@ -31,8 +31,8 @@ There are 4 different scripts that must be recompiled:
 
 ENGLISH:
 - **field.bf** (for the field) found in ps4R.cpk\field\\**fldPack.pac**
-- **dungeon.bf** (for palaces) found in ps4R.cpk\field\\**dngPack.pac**
-- **at_dng.bf** (for mementos) found in ps4R.cpk\field\\**atDngPack.pac**
+- **dungeon.bf** (for palaces) found in ps4R.cpk\field\\**dngPack.pac** OR patch2R.cpk\field\\**dngPack.pac**
+- **at_dng.bf** (for mementos) found in ps4R.cpk\field\\**atDngPack.pac** OR patch2R.cpk\field\\**atDngPack.pac**
 - **fscr0150_002_100.bf** (for newgame) found in dataR.cpk\script\\**field**
 
 FRENCH:
